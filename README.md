@@ -5,7 +5,6 @@ This is a repo for CIS 9440 HW 1 & 2. Dataset is picked from DATA.GOV (https://c
 - Electric Vehicle Population Data
 - This dataset shows the Battery Electric Vehicles (BEVs) and Plug-in Hybrid Electric Vehicles (PHEVs) that are currently registered through Washington State Department of Licensing (DOL).
 
-creating dimensional modeling, breaking down these sources into a data warehouse via Google Cloud Platform (GCP) and producing a predictive model that performs an analysis on breaking down the top coefficents for predicting a 95% confidence interval on the salary range.
 
 ## Extract
 
@@ -17,3 +16,7 @@ Extract was done by API web scraping. You can find the script under:
 ## Transform
 
 Transforming was done by Alteryx. The workflow can be found here:
+
+
+## Data Modeling
+creating dimensional modeling, breaking down these sources into a data warehouse via Google Cloud Platform (GCP) and producing a predictive model that performs an analysis on breaking down the top coefficents for predicting a 95% confidence interval on the salary range.
