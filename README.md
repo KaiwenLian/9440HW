@@ -3,6 +3,7 @@
 This is a repo for CIS 9440 HW 1 & 2. Dataset is picked from DATA.GOV (https://catalog.data.gov/dataset/electric-vehicle-population-data).
 
 - Electric Vehicle Population Data
+- Insights: Examine how electric range impacts the popularity and perceived value of vehicles (correlation with MSRP and type of electric vehicle).
 - This dataset shows the Battery Electric Vehicles (BEVs) and Plug-in Hybrid Electric Vehicles (PHEVs) that are currently registered through Washington State Department of Licensing (DOL).
 
 
