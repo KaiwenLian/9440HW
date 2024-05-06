@@ -1,0 +1,59 @@
+CREATE SCHEMA IF NOT EXISTS ev_population_data;
+
+CREATE TABLE ev_population_data.Date_Dim (
+    Date_ID INT64 NOT NULL,
+    Model_Year INT64
+);
+
+
+CREATE TABLE ev_population_data.Electric_Vehicle_Type_Dim (
+    EV_Type_ID INT64 NOT NULL,
+    Electric_Vehicle_Type STRING,
+    Electric_Utility STRING,
+    CAFV_Eligibility STRING
+);
+
+
+CREATE TABLE ev_population_data.Location_Dim (
+    Location_ID INT64 NOT NULL,
+    County STRING,
+    City STRING,
+    State STRING,
+    Postal_Code STRING,
+    Legislative_District STRING,
+    Census_Tract_2020 STRING,
+    Latitude NUMERIC(9,6),
+    Longitude NUMERIC(9,6)
+);
+
+
+CREATE TABLE ev_population_data.Vehicle_Dim (
+    Vehicle_ID INT64 NOT NULL,
+    VIN STRING,
+    Make STRING,
+    Model STRING,
+    DOL_Vehicle_ID STRING
+);
+
+
+CREATE TABLE ev_population_data.Facts_EV (
+    Fact_ID INT64 NOT NULL,
+    Electric_Range NUMERIC,
+    Base_MSRP NUMERIC,
+    Date_ID INT64 NOT NULL,
+    Location_ID INT64 NOT NULL,
+    Vehicle_ID INT64 NOT NULL,
+    EV_Type_ID INT64 NOT NULL
+);
+
+ALTER TABLE ev_population_data.Date_Dim ADD PRIMARY KEY (Date_ID) NOT ENFORCED;
+ALTER TABLE ev_population_data.Electric_Vehicle_Type_Dim ADD PRIMARY KEY (EV_Type_ID) NOT ENFORCED;
+ALTER TABLE ev_population_data.Location_Dim ADD PRIMARY KEY (Location_ID) NOT ENFORCED;
+ALTER TABLE ev_population_data.Vehicle_Dim ADD PRIMARY KEY (Vehicle_ID) NOT ENFORCED;
+ALTER TABLE ev_population_data.Facts_EV ADD PRIMARY KEY (Fact_ID) NOT ENFORCED;
+
+
+ALTER TABLE ev_population_data.Facts_EV ADD CONSTRAINT fk_Facts_EV_Date_Dim FOREIGN KEY (Date_ID) REFERENCES ev_population_data.Date_Dim (Date_ID) NOT ENFORCED;
+ALTER TABLE ev_population_data.Facts_EV ADD CONSTRAINT fk_Facts_EV_Location_Dim FOREIGN KEY (Location_ID) REFERENCES ev_population_data.Location_Dim (Location_ID) NOT ENFORCED;
+ALTER TABLE ev_population_data.Facts_EV ADD CONSTRAINT fk_Facts_EV_Vehicle_Dim FOREIGN KEY (Vehicle_ID) REFERENCES ev_population_data.Vehicle_Dim (Vehicle_ID) NOT ENFORCED;
+ALTER TABLE ev_population_data.Facts_EV ADD CONSTRAINT fk_Facts_EV_Electric_Vehicle_Type_Dim FOREIGN KEY (EV_Type_ID) REFERENCES ev_population_data.Electric_Vehicle_Type_Dim (EV_Type_ID) NOT ENFORCED;
