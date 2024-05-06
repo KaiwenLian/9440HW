@@ -9,7 +9,11 @@ This is a repo for CIS 9440 HW 1 & 2. Dataset is picked from DATA.GOV (https://c
 
 ## Extract
 
-The extract was done by API web scraping. You can find the script in **"9440_HW1_KaiwenLian.ipynb"**
+- The extract was done by API web scraping. You can find the script in **"9440_HW1_KaiwenLian.ipynb"**
+
+## Transform
+
+- Transforming was done by Alteryx. The workflow can be found here:
 
 
 ## Data Modeling
@@ -19,8 +23,4 @@ The extract was done by API web scraping. You can find the script in **"9440_HW1
 
 
 - Schema generated using Big Query can be found in **"Dimensional Modeling Schema"**
-
-## Transform
-
-- Transforming was done by Alteryx. The workflow can be found here:
 
