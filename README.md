@@ -22,5 +22,5 @@ This is a repo for CIS 9440 HW 1 & 2. Dataset is picked from DATA.GOV (https://c
 <img width="1163" alt="image" src="https://github.com/KaiwenLian/9440HW/assets/77905682/7194bd0c-d2ae-488f-86fe-26520b5f5020">
 
 
-- Schema generated using Big Query can be found in **"Dimensional Modeling Schema"**
+- Schema generated for Big Query can be found in **"Dimensional Modeling Schema"**
 
