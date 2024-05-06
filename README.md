@@ -17,7 +17,8 @@ The extract was done by API web scraping. You can find the script under:
 ## Data Modeling
 - Creating dimensional modeling, breaking down these sources into a data warehouse via Google Cloud Platform (GCP). 
 - For a data warehouse star schema based on this dataset, we can structure it as follows:
-<img width="1535" alt="image" src="https://github.com/KaiwenLian/9440HW/assets/77905682/fa9fe8d5-ad26-48ec-aaec-00683f1704d2">
+<img width="1163" alt="image" src="https://github.com/KaiwenLian/9440HW/assets/77905682/7194bd0c-d2ae-488f-86fe-26520b5f5020">
+
 
 - Schema generated using Big Query can be found here:
 
