@@ -10,8 +10,7 @@ This is a repo for CIS 9440 HW 1 & 2. Dataset is picked from DATA.GOV (https://c
 ## Extract
 
 The extract was done by API web scraping. You can find the script under: 
-
-9440HW/9440_HW1_KaiwenLian.ipynb
+  9440HW/9440_HW1_KaiwenLian.ipynb
 
 
 ## Data Modeling
@@ -21,6 +20,7 @@ The extract was done by API web scraping. You can find the script under:
 
 
 - Schema generated using Big Query can be found here:
+  Dimentional Modeling Schema
 
 ## Transform
 
