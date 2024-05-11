@@ -1,0 +1,284 @@
+EV_Type_ID,Electric Vehicle Type,Clean Alternative Fuel Vehicle (CAFV) Eligibility,CAFV Eligibility Type,Electric Utility
+E000001,Battery Electric Vehicle (BEV),Clean Alternative Fuel Vehicle Eligible,Eligible,AVISTA CORP
+E000002,Battery Electric Vehicle (BEV),Clean Alternative Fuel Vehicle Eligible,Eligible,"BONNEVILLE POWER ADMINISTRATION||AVISTA CORP||BIG BEND ELECTRIC COOP, INC"
+E000003,Battery Electric Vehicle (BEV),Clean Alternative Fuel Vehicle Eligible,Eligible,BONNEVILLE POWER ADMINISTRATION||AVISTA CORP||INLAND POWER & LIGHT COMPANY
+E000004,Battery Electric Vehicle (BEV),Clean Alternative Fuel Vehicle Eligible,Eligible,BONNEVILLE POWER ADMINISTRATION||AVISTA CORP||PUD NO 1 OF ASOTIN COUNTY
+E000005,Battery Electric Vehicle (BEV),Clean Alternative Fuel Vehicle Eligible,Eligible,"BONNEVILLE POWER ADMINISTRATION||BIG BEND ELECTRIC COOP, INC"
+E000006,Battery Electric Vehicle (BEV),Clean Alternative Fuel Vehicle Eligible,Eligible,BONNEVILLE POWER ADMINISTRATION||CITY OF CENTRALIA - (WA)|CITY OF TACOMA - (WA)
+E000007,Battery Electric Vehicle (BEV),Clean Alternative Fuel Vehicle Eligible,Eligible,BONNEVILLE POWER ADMINISTRATION||CITY OF COULEE DAM - (WA)
+E000008,Battery Electric Vehicle (BEV),Clean Alternative Fuel Vehicle Eligible,Eligible,BONNEVILLE POWER ADMINISTRATION||CITY OF ELLENSBURG - (WA)
+E000009,Battery Electric Vehicle (BEV),Clean Alternative Fuel Vehicle Eligible,Eligible,BONNEVILLE POWER ADMINISTRATION||CITY OF MCCLEARY - (WA)
+E000010,Battery Electric Vehicle (BEV),Clean Alternative Fuel Vehicle Eligible,Eligible,BONNEVILLE POWER ADMINISTRATION||CITY OF MILTON - (WA)|CITY OF TACOMA - (WA)
+E000011,Battery Electric Vehicle (BEV),Clean Alternative Fuel Vehicle Eligible,Eligible,BONNEVILLE POWER ADMINISTRATION||CITY OF PORT ANGELES - (WA)
+E000012,Battery Electric Vehicle (BEV),Clean Alternative Fuel Vehicle Eligible,Eligible,BONNEVILLE POWER ADMINISTRATION||CITY OF RICHLAND - (WA)
+E000013,Battery Electric Vehicle (BEV),Clean Alternative Fuel Vehicle Eligible,Eligible,BONNEVILLE POWER ADMINISTRATION||CITY OF TACOMA - (WA)||BENTON RURAL ELECTRIC ASSN|PENINSULA LIGHT COMPANY
+E000014,Battery Electric Vehicle (BEV),Clean Alternative Fuel Vehicle Eligible,Eligible,BONNEVILLE POWER ADMINISTRATION||CITY OF TACOMA - (WA)||ELMHURST MUTUAL POWER & LIGHT CO|PENINSULA LIGHT COMPANY
+E000015,Battery Electric Vehicle (BEV),Clean Alternative Fuel Vehicle Eligible,Eligible,BONNEVILLE POWER ADMINISTRATION||CITY OF TACOMA - (WA)||LAKEVIEW LIGHT & POWER|PENINSULA LIGHT COMPANY
+E000016,Battery Electric Vehicle (BEV),Clean Alternative Fuel Vehicle Eligible,Eligible,"BONNEVILLE POWER ADMINISTRATION||CITY OF TACOMA - (WA)||OHOP MUTUAL LIGHT COMPANY, INC|PENINSULA LIGHT COMPANY"
+E000017,Battery Electric Vehicle (BEV),Clean Alternative Fuel Vehicle Eligible,Eligible,BONNEVILLE POWER ADMINISTRATION||CITY OF TACOMA - (WA)||PARKLAND LIGHT & WATER COMPANY|PENINSULA LIGHT COMPANY
+E000018,Battery Electric Vehicle (BEV),Clean Alternative Fuel Vehicle Eligible,Eligible,BONNEVILLE POWER ADMINISTRATION||CITY OF TACOMA - (WA)||PENINSULA LIGHT COMPANY
+E000019,Battery Electric Vehicle (BEV),Clean Alternative Fuel Vehicle Eligible,Eligible,BONNEVILLE POWER ADMINISTRATION||CITY OF TACOMA - (WA)||PUD NO 1 OF LEWIS COUNTY
+E000020,Battery Electric Vehicle (BEV),Clean Alternative Fuel Vehicle Eligible,Eligible,BONNEVILLE POWER ADMINISTRATION||CITY OF TACOMA - (WA)||PUD NO 1 OF MASON COUNTY
+E000021,Battery Electric Vehicle (BEV),Clean Alternative Fuel Vehicle Eligible,Eligible,BONNEVILLE POWER ADMINISTRATION||CITY OF TACOMA - (WA)||PUD NO 3 OF MASON COUNTY
+E000022,Battery Electric Vehicle (BEV),Clean Alternative Fuel Vehicle Eligible,Eligible,"BONNEVILLE POWER ADMINISTRATION||COLUMBIA RURAL ELEC ASSN, INC"
+E000023,Battery Electric Vehicle (BEV),Clean Alternative Fuel Vehicle Eligible,Eligible,BONNEVILLE POWER ADMINISTRATION||INLAND POWER & LIGHT COMPANY
+E000024,Battery Electric Vehicle (BEV),Clean Alternative Fuel Vehicle Eligible,Eligible,"BONNEVILLE POWER ADMINISTRATION||NESPELEM VALLEY ELEC COOP, INC"
+E000025,Battery Electric Vehicle (BEV),Clean Alternative Fuel Vehicle Eligible,Eligible,BONNEVILLE POWER ADMINISTRATION||ORCAS POWER & LIGHT COOP
+E000026,Battery Electric Vehicle (BEV),Clean Alternative Fuel Vehicle Eligible,Eligible,BONNEVILLE POWER ADMINISTRATION||PACIFICORP||BENTON RURAL ELECTRIC ASSN
+E000027,Battery Electric Vehicle (BEV),Clean Alternative Fuel Vehicle Eligible,Eligible,"BONNEVILLE POWER ADMINISTRATION||PACIFICORP||COLUMBIA RURAL ELEC ASSN, INC"
+E000028,Battery Electric Vehicle (BEV),Clean Alternative Fuel Vehicle Eligible,Eligible,BONNEVILLE POWER ADMINISTRATION||PACIFICORP||PUD NO 1 OF CLARK COUNTY - (WA)
+E000029,Battery Electric Vehicle (BEV),Clean Alternative Fuel Vehicle Eligible,Eligible,BONNEVILLE POWER ADMINISTRATION||PUD 1 OF SNOHOMISH COUNTY
+E000030,Battery Electric Vehicle (BEV),Clean Alternative Fuel Vehicle Eligible,Eligible,BONNEVILLE POWER ADMINISTRATION||PUD NO 1 OF BENTON COUNTY
+E000031,Battery Electric Vehicle (BEV),Clean Alternative Fuel Vehicle Eligible,Eligible,BONNEVILLE POWER ADMINISTRATION||PUD NO 1 OF CLALLAM COUNTY
+E000032,Battery Electric Vehicle (BEV),Clean Alternative Fuel Vehicle Eligible,Eligible,BONNEVILLE POWER ADMINISTRATION||PUD NO 1 OF CLARK COUNTY - (WA)
+E000033,Battery Electric Vehicle (BEV),Clean Alternative Fuel Vehicle Eligible,Eligible,BONNEVILLE POWER ADMINISTRATION||PUD NO 1 OF COWLITZ COUNTY
+E000034,Battery Electric Vehicle (BEV),Clean Alternative Fuel Vehicle Eligible,Eligible,BONNEVILLE POWER ADMINISTRATION||PUD NO 1 OF FERRY COUNTY
+E000035,Battery Electric Vehicle (BEV),Clean Alternative Fuel Vehicle Eligible,Eligible,BONNEVILLE POWER ADMINISTRATION||PUD NO 1 OF FRANKLIN COUNTY
+E000036,Battery Electric Vehicle (BEV),Clean Alternative Fuel Vehicle Eligible,Eligible,BONNEVILLE POWER ADMINISTRATION||PUD NO 1 OF GRAYS HARBOR COUNTY
+E000037,Battery Electric Vehicle (BEV),Clean Alternative Fuel Vehicle Eligible,Eligible,BONNEVILLE POWER ADMINISTRATION||PUD NO 1 OF KITTITAS COUNTY
+E000038,Battery Electric Vehicle (BEV),Clean Alternative Fuel Vehicle Eligible,Eligible,BONNEVILLE POWER ADMINISTRATION||PUD NO 1 OF KLICKITAT COUNTY
+E000039,Battery Electric Vehicle (BEV),Clean Alternative Fuel Vehicle Eligible,Eligible,BONNEVILLE POWER ADMINISTRATION||PUD NO 1 OF MASON COUNTY|PUD NO 1 OF JEFFERSON COUNTY
+E000040,Battery Electric Vehicle (BEV),Clean Alternative Fuel Vehicle Eligible,Eligible,BONNEVILLE POWER ADMINISTRATION||PUD NO 1 OF SKAMANIA CO
+E000041,Battery Electric Vehicle (BEV),Clean Alternative Fuel Vehicle Eligible,Eligible,BONNEVILLE POWER ADMINISTRATION||PUD NO 1 OF WAHKIAKUM COUNTY
+E000042,Battery Electric Vehicle (BEV),Clean Alternative Fuel Vehicle Eligible,Eligible,BONNEVILLE POWER ADMINISTRATION||PUD NO 2 OF PACIFIC COUNTY
+E000043,Battery Electric Vehicle (BEV),Clean Alternative Fuel Vehicle Eligible,Eligible,BONNEVILLE POWER ADMINISTRATION||PUGET SOUND ENERGY INC||PUD NO 1 OF JEFFERSON COUNTY
+E000044,Battery Electric Vehicle (BEV),Clean Alternative Fuel Vehicle Eligible,Eligible,BONNEVILLE POWER ADMINISTRATION||TOWN OF EATONVILLE - (WA)|CITY OF TACOMA - (WA)
+E000045,Battery Electric Vehicle (BEV),Clean Alternative Fuel Vehicle Eligible,Eligible,BONNEVILLE POWER ADMINISTRATION||TOWN OF RUSTON - (WA)|CITY OF TACOMA - (WA)||PENINSULA LIGHT COMPANY
+E000046,Battery Electric Vehicle (BEV),Clean Alternative Fuel Vehicle Eligible,Eligible,BONNEVILLE POWER ADMINISTRATION||TOWN OF STEILACOOM|CITY OF TACOMA - (WA)||PENINSULA LIGHT COMPANY
+E000047,Battery Electric Vehicle (BEV),Clean Alternative Fuel Vehicle Eligible,Eligible,BONNEVILLE POWER ADMINISTRATION||VERA IRRIGATION DISTRICT #15
+E000048,Battery Electric Vehicle (BEV),Clean Alternative Fuel Vehicle Eligible,Eligible,CITY OF BLAINE - (WA)||PUD NO 1 OF WHATCOM COUNTY
+E000049,Battery Electric Vehicle (BEV),Clean Alternative Fuel Vehicle Eligible,Eligible,CITY OF CHENEY - (WA)
+E000050,Battery Electric Vehicle (BEV),Clean Alternative Fuel Vehicle Eligible,Eligible,CITY OF CHEWELAH
+E000051,Battery Electric Vehicle (BEV),Clean Alternative Fuel Vehicle Eligible,Eligible,CITY OF SEATTLE - (WA)|CITY OF TACOMA - (WA)
+E000052,Battery Electric Vehicle (BEV),Clean Alternative Fuel Vehicle Eligible,Eligible,CITY OF SUMAS - (WA)||PUD NO 1 OF WHATCOM COUNTY
+E000053,Battery Electric Vehicle (BEV),Clean Alternative Fuel Vehicle Eligible,Eligible,CITY OF TACOMA - (WA)
+E000054,Battery Electric Vehicle (BEV),Clean Alternative Fuel Vehicle Eligible,Eligible,CITY OF TACOMA - (WA)||TANNER ELECTRIC COOP
+E000055,Battery Electric Vehicle (BEV),Clean Alternative Fuel Vehicle Eligible,Eligible,MODERN ELECTRIC WATER COMPANY
+E000056,Battery Electric Vehicle (BEV),Clean Alternative Fuel Vehicle Eligible,Eligible,NO KNOWN ELECTRIC UTILITY SERVICE
+E000057,Battery Electric Vehicle (BEV),Clean Alternative Fuel Vehicle Eligible,Eligible,NON WASHINGTON STATE ELECTRIC UTILITY
+E000058,Battery Electric Vehicle (BEV),Clean Alternative Fuel Vehicle Eligible,Eligible,"OKANOGAN COUNTY ELEC COOP, INC"
+E000059,Battery Electric Vehicle (BEV),Clean Alternative Fuel Vehicle Eligible,Eligible,PACIFICORP
+E000060,Battery Electric Vehicle (BEV),Clean Alternative Fuel Vehicle Eligible,Eligible,PUD NO 1 OF CHELAN COUNTY
+E000061,Battery Electric Vehicle (BEV),Clean Alternative Fuel Vehicle Eligible,Eligible,PUD NO 1 OF DOUGLAS COUNTY
+E000062,Battery Electric Vehicle (BEV),Clean Alternative Fuel Vehicle Eligible,Eligible,PUD NO 1 OF OKANOGAN COUNTY
+E000063,Battery Electric Vehicle (BEV),Clean Alternative Fuel Vehicle Eligible,Eligible,PUD NO 1 OF PEND OREILLE COUNTY
+E000064,Battery Electric Vehicle (BEV),Clean Alternative Fuel Vehicle Eligible,Eligible,PUD NO 1 OF WHATCOM COUNTY
+E000065,Battery Electric Vehicle (BEV),Clean Alternative Fuel Vehicle Eligible,Eligible,PUD NO 2 OF GRANT COUNTY
+E000066,Battery Electric Vehicle (BEV),Clean Alternative Fuel Vehicle Eligible,Eligible,PUGET SOUND ENERGY INC
+E000067,Battery Electric Vehicle (BEV),Clean Alternative Fuel Vehicle Eligible,Eligible,PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)
+E000068,Battery Electric Vehicle (BEV),Clean Alternative Fuel Vehicle Eligible,Eligible,PUGET SOUND ENERGY INC||PUD NO 1 OF WHATCOM COUNTY
+E000069,Battery Electric Vehicle (BEV),Eligibility unknown as battery range has not been researched,Unknown,AVISTA CORP
+E000070,Battery Electric Vehicle (BEV),Eligibility unknown as battery range has not been researched,Unknown,"BONNEVILLE POWER ADMINISTRATION||AVISTA CORP||BIG BEND ELECTRIC COOP, INC"
+E000071,Battery Electric Vehicle (BEV),Eligibility unknown as battery range has not been researched,Unknown,BONNEVILLE POWER ADMINISTRATION||AVISTA CORP||INLAND POWER & LIGHT COMPANY
+E000072,Battery Electric Vehicle (BEV),Eligibility unknown as battery range has not been researched,Unknown,BONNEVILLE POWER ADMINISTRATION||AVISTA CORP||PUD NO 1 OF ASOTIN COUNTY
+E000073,Battery Electric Vehicle (BEV),Eligibility unknown as battery range has not been researched,Unknown,BONNEVILLE POWER ADMINISTRATION||BENTON RURAL ELECTRIC ASSN
+E000074,Battery Electric Vehicle (BEV),Eligibility unknown as battery range has not been researched,Unknown,"BONNEVILLE POWER ADMINISTRATION||BIG BEND ELECTRIC COOP, INC"
+E000075,Battery Electric Vehicle (BEV),Eligibility unknown as battery range has not been researched,Unknown,BONNEVILLE POWER ADMINISTRATION||CITY OF CENTRALIA - (WA)|CITY OF TACOMA - (WA)
+E000076,Battery Electric Vehicle (BEV),Eligibility unknown as battery range has not been researched,Unknown,BONNEVILLE POWER ADMINISTRATION||CITY OF COULEE DAM - (WA)
+E000077,Battery Electric Vehicle (BEV),Eligibility unknown as battery range has not been researched,Unknown,BONNEVILLE POWER ADMINISTRATION||CITY OF ELLENSBURG - (WA)
+E000078,Battery Electric Vehicle (BEV),Eligibility unknown as battery range has not been researched,Unknown,BONNEVILLE POWER ADMINISTRATION||CITY OF MCCLEARY - (WA)
+E000079,Battery Electric Vehicle (BEV),Eligibility unknown as battery range has not been researched,Unknown,BONNEVILLE POWER ADMINISTRATION||CITY OF MILTON - (WA)|CITY OF TACOMA - (WA)
+E000080,Battery Electric Vehicle (BEV),Eligibility unknown as battery range has not been researched,Unknown,BONNEVILLE POWER ADMINISTRATION||CITY OF PORT ANGELES - (WA)
+E000081,Battery Electric Vehicle (BEV),Eligibility unknown as battery range has not been researched,Unknown,BONNEVILLE POWER ADMINISTRATION||CITY OF RICHLAND - (WA)
+E000082,Battery Electric Vehicle (BEV),Eligibility unknown as battery range has not been researched,Unknown,"BONNEVILLE POWER ADMINISTRATION||CITY OF TACOMA - (WA)||ALDER MUTUAL LIGHT CO, INC|PENINSULA LIGHT COMPANY"
+E000083,Battery Electric Vehicle (BEV),Eligibility unknown as battery range has not been researched,Unknown,BONNEVILLE POWER ADMINISTRATION||CITY OF TACOMA - (WA)||BENTON RURAL ELECTRIC ASSN|PENINSULA LIGHT COMPANY
+E000084,Battery Electric Vehicle (BEV),Eligibility unknown as battery range has not been researched,Unknown,BONNEVILLE POWER ADMINISTRATION||CITY OF TACOMA - (WA)||ELMHURST MUTUAL POWER & LIGHT CO|PENINSULA LIGHT COMPANY
+E000085,Battery Electric Vehicle (BEV),Eligibility unknown as battery range has not been researched,Unknown,BONNEVILLE POWER ADMINISTRATION||CITY OF TACOMA - (WA)||LAKEVIEW LIGHT & POWER|PENINSULA LIGHT COMPANY
+E000086,Battery Electric Vehicle (BEV),Eligibility unknown as battery range has not been researched,Unknown,"BONNEVILLE POWER ADMINISTRATION||CITY OF TACOMA - (WA)||OHOP MUTUAL LIGHT COMPANY, INC|PENINSULA LIGHT COMPANY"
+E000087,Battery Electric Vehicle (BEV),Eligibility unknown as battery range has not been researched,Unknown,BONNEVILLE POWER ADMINISTRATION||CITY OF TACOMA - (WA)||PARKLAND LIGHT & WATER COMPANY|PENINSULA LIGHT COMPANY
+E000088,Battery Electric Vehicle (BEV),Eligibility unknown as battery range has not been researched,Unknown,BONNEVILLE POWER ADMINISTRATION||CITY OF TACOMA - (WA)||PENINSULA LIGHT COMPANY
+E000089,Battery Electric Vehicle (BEV),Eligibility unknown as battery range has not been researched,Unknown,BONNEVILLE POWER ADMINISTRATION||CITY OF TACOMA - (WA)||PUD NO 1 OF LEWIS COUNTY
+E000090,Battery Electric Vehicle (BEV),Eligibility unknown as battery range has not been researched,Unknown,BONNEVILLE POWER ADMINISTRATION||CITY OF TACOMA - (WA)||PUD NO 1 OF MASON COUNTY
+E000091,Battery Electric Vehicle (BEV),Eligibility unknown as battery range has not been researched,Unknown,BONNEVILLE POWER ADMINISTRATION||CITY OF TACOMA - (WA)||PUD NO 3 OF MASON COUNTY
+E000092,Battery Electric Vehicle (BEV),Eligibility unknown as battery range has not been researched,Unknown,"BONNEVILLE POWER ADMINISTRATION||COLUMBIA RURAL ELEC ASSN, INC"
+E000093,Battery Electric Vehicle (BEV),Eligibility unknown as battery range has not been researched,Unknown,BONNEVILLE POWER ADMINISTRATION||INLAND POWER & LIGHT COMPANY
+E000094,Battery Electric Vehicle (BEV),Eligibility unknown as battery range has not been researched,Unknown,"BONNEVILLE POWER ADMINISTRATION||NESPELEM VALLEY ELEC COOP, INC"
+E000095,Battery Electric Vehicle (BEV),Eligibility unknown as battery range has not been researched,Unknown,BONNEVILLE POWER ADMINISTRATION||ORCAS POWER & LIGHT COOP
+E000096,Battery Electric Vehicle (BEV),Eligibility unknown as battery range has not been researched,Unknown,BONNEVILLE POWER ADMINISTRATION||PACIFICORP||BENTON RURAL ELECTRIC ASSN
+E000097,Battery Electric Vehicle (BEV),Eligibility unknown as battery range has not been researched,Unknown,"BONNEVILLE POWER ADMINISTRATION||PACIFICORP||COLUMBIA RURAL ELEC ASSN, INC"
+E000098,Battery Electric Vehicle (BEV),Eligibility unknown as battery range has not been researched,Unknown,BONNEVILLE POWER ADMINISTRATION||PACIFICORP||PUD NO 1 OF CLARK COUNTY - (WA)
+E000099,Battery Electric Vehicle (BEV),Eligibility unknown as battery range has not been researched,Unknown,BONNEVILLE POWER ADMINISTRATION||PUD 1 OF SNOHOMISH COUNTY
+E000100,Battery Electric Vehicle (BEV),Eligibility unknown as battery range has not been researched,Unknown,BONNEVILLE POWER ADMINISTRATION||PUD NO 1 OF BENTON COUNTY
+E000101,Battery Electric Vehicle (BEV),Eligibility unknown as battery range has not been researched,Unknown,BONNEVILLE POWER ADMINISTRATION||PUD NO 1 OF CLALLAM COUNTY
+E000102,Battery Electric Vehicle (BEV),Eligibility unknown as battery range has not been researched,Unknown,BONNEVILLE POWER ADMINISTRATION||PUD NO 1 OF CLALLAM COUNTY|PUD NO 1 OF JEFFERSON COUNTY
+E000103,Battery Electric Vehicle (BEV),Eligibility unknown as battery range has not been researched,Unknown,BONNEVILLE POWER ADMINISTRATION||PUD NO 1 OF CLARK COUNTY - (WA)
+E000104,Battery Electric Vehicle (BEV),Eligibility unknown as battery range has not been researched,Unknown,BONNEVILLE POWER ADMINISTRATION||PUD NO 1 OF COWLITZ COUNTY
+E000105,Battery Electric Vehicle (BEV),Eligibility unknown as battery range has not been researched,Unknown,BONNEVILLE POWER ADMINISTRATION||PUD NO 1 OF FERRY COUNTY
+E000106,Battery Electric Vehicle (BEV),Eligibility unknown as battery range has not been researched,Unknown,BONNEVILLE POWER ADMINISTRATION||PUD NO 1 OF FRANKLIN COUNTY
+E000107,Battery Electric Vehicle (BEV),Eligibility unknown as battery range has not been researched,Unknown,BONNEVILLE POWER ADMINISTRATION||PUD NO 1 OF GRAYS HARBOR COUNTY
+E000108,Battery Electric Vehicle (BEV),Eligibility unknown as battery range has not been researched,Unknown,BONNEVILLE POWER ADMINISTRATION||PUD NO 1 OF JEFFERSON COUNTY
+E000109,Battery Electric Vehicle (BEV),Eligibility unknown as battery range has not been researched,Unknown,BONNEVILLE POWER ADMINISTRATION||PUD NO 1 OF KITTITAS COUNTY
+E000110,Battery Electric Vehicle (BEV),Eligibility unknown as battery range has not been researched,Unknown,BONNEVILLE POWER ADMINISTRATION||PUD NO 1 OF KLICKITAT COUNTY
+E000111,Battery Electric Vehicle (BEV),Eligibility unknown as battery range has not been researched,Unknown,BONNEVILLE POWER ADMINISTRATION||PUD NO 1 OF MASON COUNTY|PUD NO 1 OF JEFFERSON COUNTY
+E000112,Battery Electric Vehicle (BEV),Eligibility unknown as battery range has not been researched,Unknown,BONNEVILLE POWER ADMINISTRATION||PUD NO 1 OF SKAMANIA CO
+E000113,Battery Electric Vehicle (BEV),Eligibility unknown as battery range has not been researched,Unknown,BONNEVILLE POWER ADMINISTRATION||PUD NO 1 OF WAHKIAKUM COUNTY
+E000114,Battery Electric Vehicle (BEV),Eligibility unknown as battery range has not been researched,Unknown,BONNEVILLE POWER ADMINISTRATION||PUD NO 2 OF PACIFIC COUNTY
+E000115,Battery Electric Vehicle (BEV),Eligibility unknown as battery range has not been researched,Unknown,BONNEVILLE POWER ADMINISTRATION||PUGET SOUND ENERGY INC||PUD NO 1 OF JEFFERSON COUNTY
+E000116,Battery Electric Vehicle (BEV),Eligibility unknown as battery range has not been researched,Unknown,BONNEVILLE POWER ADMINISTRATION||TOWN OF EATONVILLE - (WA)|CITY OF TACOMA - (WA)
+E000117,Battery Electric Vehicle (BEV),Eligibility unknown as battery range has not been researched,Unknown,BONNEVILLE POWER ADMINISTRATION||TOWN OF RUSTON - (WA)|CITY OF TACOMA - (WA)||PENINSULA LIGHT COMPANY
+E000118,Battery Electric Vehicle (BEV),Eligibility unknown as battery range has not been researched,Unknown,BONNEVILLE POWER ADMINISTRATION||TOWN OF STEILACOOM|CITY OF TACOMA - (WA)||PENINSULA LIGHT COMPANY
+E000119,Battery Electric Vehicle (BEV),Eligibility unknown as battery range has not been researched,Unknown,BONNEVILLE POWER ADMINISTRATION||VERA IRRIGATION DISTRICT #15
+E000120,Battery Electric Vehicle (BEV),Eligibility unknown as battery range has not been researched,Unknown,CITY OF BLAINE - (WA)||PUD NO 1 OF WHATCOM COUNTY
+E000121,Battery Electric Vehicle (BEV),Eligibility unknown as battery range has not been researched,Unknown,CITY OF CHENEY - (WA)
+E000122,Battery Electric Vehicle (BEV),Eligibility unknown as battery range has not been researched,Unknown,CITY OF CHEWELAH
+E000123,Battery Electric Vehicle (BEV),Eligibility unknown as battery range has not been researched,Unknown,CITY OF SEATTLE - (WA)
+E000124,Battery Electric Vehicle (BEV),Eligibility unknown as battery range has not been researched,Unknown,CITY OF SEATTLE - (WA)|CITY OF TACOMA - (WA)
+E000125,Battery Electric Vehicle (BEV),Eligibility unknown as battery range has not been researched,Unknown,CITY OF SUMAS - (WA)||PUD NO 1 OF WHATCOM COUNTY
+E000126,Battery Electric Vehicle (BEV),Eligibility unknown as battery range has not been researched,Unknown,CITY OF TACOMA - (WA)
+E000127,Battery Electric Vehicle (BEV),Eligibility unknown as battery range has not been researched,Unknown,CITY OF TACOMA - (WA)||TANNER ELECTRIC COOP
+E000128,Battery Electric Vehicle (BEV),Eligibility unknown as battery range has not been researched,Unknown,MODERN ELECTRIC WATER COMPANY
+E000129,Battery Electric Vehicle (BEV),Eligibility unknown as battery range has not been researched,Unknown,NO KNOWN ELECTRIC UTILITY SERVICE
+E000130,Battery Electric Vehicle (BEV),Eligibility unknown as battery range has not been researched,Unknown,NON WASHINGTON STATE ELECTRIC UTILITY
+E000131,Battery Electric Vehicle (BEV),Eligibility unknown as battery range has not been researched,Unknown,"OKANOGAN COUNTY ELEC COOP, INC"
+E000132,Battery Electric Vehicle (BEV),Eligibility unknown as battery range has not been researched,Unknown,PACIFICORP
+E000133,Battery Electric Vehicle (BEV),Eligibility unknown as battery range has not been researched,Unknown,PORTLAND GENERAL ELECTRIC CO
+E000134,Battery Electric Vehicle (BEV),Eligibility unknown as battery range has not been researched,Unknown,PUD NO 1 OF CHELAN COUNTY
+E000135,Battery Electric Vehicle (BEV),Eligibility unknown as battery range has not been researched,Unknown,PUD NO 1 OF DOUGLAS COUNTY
+E000136,Battery Electric Vehicle (BEV),Eligibility unknown as battery range has not been researched,Unknown,PUD NO 1 OF OKANOGAN COUNTY
+E000137,Battery Electric Vehicle (BEV),Eligibility unknown as battery range has not been researched,Unknown,PUD NO 1 OF PEND OREILLE COUNTY
+E000138,Battery Electric Vehicle (BEV),Eligibility unknown as battery range has not been researched,Unknown,PUD NO 1 OF WHATCOM COUNTY
+E000139,Battery Electric Vehicle (BEV),Eligibility unknown as battery range has not been researched,Unknown,PUD NO 2 OF GRANT COUNTY
+E000140,Battery Electric Vehicle (BEV),Eligibility unknown as battery range has not been researched,Unknown,PUGET SOUND ENERGY INC
+E000141,Battery Electric Vehicle (BEV),Eligibility unknown as battery range has not been researched,Unknown,PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)
+E000142,Battery Electric Vehicle (BEV),Eligibility unknown as battery range has not been researched,Unknown,PUGET SOUND ENERGY INC||PUD NO 1 OF WHATCOM COUNTY
+E000143,Battery Electric Vehicle (BEV),Not eligible due to low battery range,Not Eligible,BONNEVILLE POWER ADMINISTRATION||PUD 1 OF SNOHOMISH COUNTY
+E000144,Battery Electric Vehicle (BEV),Not eligible due to low battery range,Not Eligible,CITY OF SEATTLE - (WA)|CITY OF TACOMA - (WA)
+E000145,Battery Electric Vehicle (BEV),Not eligible due to low battery range,Not Eligible,PUGET SOUND ENERGY INC
+E000146,Battery Electric Vehicle (BEV),Not eligible due to low battery range,Not Eligible,PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)
+E000147,Plug-in Hybrid Electric Vehicle (PHEV),Clean Alternative Fuel Vehicle Eligible,Eligible,AVISTA CORP
+E000148,Plug-in Hybrid Electric Vehicle (PHEV),Clean Alternative Fuel Vehicle Eligible,Eligible,"BONNEVILLE POWER ADMINISTRATION||AVISTA CORP||BIG BEND ELECTRIC COOP, INC"
+E000149,Plug-in Hybrid Electric Vehicle (PHEV),Clean Alternative Fuel Vehicle Eligible,Eligible,BONNEVILLE POWER ADMINISTRATION||AVISTA CORP||INLAND POWER & LIGHT COMPANY
+E000150,Plug-in Hybrid Electric Vehicle (PHEV),Clean Alternative Fuel Vehicle Eligible,Eligible,BONNEVILLE POWER ADMINISTRATION||AVISTA CORP||PUD NO 1 OF ASOTIN COUNTY
+E000151,Plug-in Hybrid Electric Vehicle (PHEV),Clean Alternative Fuel Vehicle Eligible,Eligible,BONNEVILLE POWER ADMINISTRATION||BENTON RURAL ELECTRIC ASSN
+E000152,Plug-in Hybrid Electric Vehicle (PHEV),Clean Alternative Fuel Vehicle Eligible,Eligible,"BONNEVILLE POWER ADMINISTRATION||BIG BEND ELECTRIC COOP, INC"
+E000153,Plug-in Hybrid Electric Vehicle (PHEV),Clean Alternative Fuel Vehicle Eligible,Eligible,BONNEVILLE POWER ADMINISTRATION||CITY OF CENTRALIA - (WA)|CITY OF TACOMA - (WA)
+E000154,Plug-in Hybrid Electric Vehicle (PHEV),Clean Alternative Fuel Vehicle Eligible,Eligible,BONNEVILLE POWER ADMINISTRATION||CITY OF ELLENSBURG - (WA)
+E000155,Plug-in Hybrid Electric Vehicle (PHEV),Clean Alternative Fuel Vehicle Eligible,Eligible,BONNEVILLE POWER ADMINISTRATION||CITY OF MILTON - (WA)|CITY OF TACOMA - (WA)
+E000156,Plug-in Hybrid Electric Vehicle (PHEV),Clean Alternative Fuel Vehicle Eligible,Eligible,BONNEVILLE POWER ADMINISTRATION||CITY OF PORT ANGELES - (WA)
+E000157,Plug-in Hybrid Electric Vehicle (PHEV),Clean Alternative Fuel Vehicle Eligible,Eligible,BONNEVILLE POWER ADMINISTRATION||CITY OF RICHLAND - (WA)
+E000158,Plug-in Hybrid Electric Vehicle (PHEV),Clean Alternative Fuel Vehicle Eligible,Eligible,BONNEVILLE POWER ADMINISTRATION||CITY OF TACOMA - (WA)||BENTON RURAL ELECTRIC ASSN|PENINSULA LIGHT COMPANY
+E000159,Plug-in Hybrid Electric Vehicle (PHEV),Clean Alternative Fuel Vehicle Eligible,Eligible,BONNEVILLE POWER ADMINISTRATION||CITY OF TACOMA - (WA)||ELMHURST MUTUAL POWER & LIGHT CO|PENINSULA LIGHT COMPANY
+E000160,Plug-in Hybrid Electric Vehicle (PHEV),Clean Alternative Fuel Vehicle Eligible,Eligible,BONNEVILLE POWER ADMINISTRATION||CITY OF TACOMA - (WA)||LAKEVIEW LIGHT & POWER|PENINSULA LIGHT COMPANY
+E000161,Plug-in Hybrid Electric Vehicle (PHEV),Clean Alternative Fuel Vehicle Eligible,Eligible,"BONNEVILLE POWER ADMINISTRATION||CITY OF TACOMA - (WA)||OHOP MUTUAL LIGHT COMPANY, INC|PENINSULA LIGHT COMPANY"
+E000162,Plug-in Hybrid Electric Vehicle (PHEV),Clean Alternative Fuel Vehicle Eligible,Eligible,BONNEVILLE POWER ADMINISTRATION||CITY OF TACOMA - (WA)||PARKLAND LIGHT & WATER COMPANY|PENINSULA LIGHT COMPANY
+E000163,Plug-in Hybrid Electric Vehicle (PHEV),Clean Alternative Fuel Vehicle Eligible,Eligible,BONNEVILLE POWER ADMINISTRATION||CITY OF TACOMA - (WA)||PENINSULA LIGHT COMPANY
+E000164,Plug-in Hybrid Electric Vehicle (PHEV),Clean Alternative Fuel Vehicle Eligible,Eligible,BONNEVILLE POWER ADMINISTRATION||CITY OF TACOMA - (WA)||PUD NO 1 OF LEWIS COUNTY
+E000165,Plug-in Hybrid Electric Vehicle (PHEV),Clean Alternative Fuel Vehicle Eligible,Eligible,BONNEVILLE POWER ADMINISTRATION||CITY OF TACOMA - (WA)||PUD NO 1 OF MASON COUNTY
+E000166,Plug-in Hybrid Electric Vehicle (PHEV),Clean Alternative Fuel Vehicle Eligible,Eligible,BONNEVILLE POWER ADMINISTRATION||CITY OF TACOMA - (WA)||PUD NO 3 OF MASON COUNTY
+E000167,Plug-in Hybrid Electric Vehicle (PHEV),Clean Alternative Fuel Vehicle Eligible,Eligible,"BONNEVILLE POWER ADMINISTRATION||COLUMBIA RURAL ELEC ASSN, INC"
+E000168,Plug-in Hybrid Electric Vehicle (PHEV),Clean Alternative Fuel Vehicle Eligible,Eligible,BONNEVILLE POWER ADMINISTRATION||INLAND POWER & LIGHT COMPANY
+E000169,Plug-in Hybrid Electric Vehicle (PHEV),Clean Alternative Fuel Vehicle Eligible,Eligible,BONNEVILLE POWER ADMINISTRATION||ORCAS POWER & LIGHT COOP
+E000170,Plug-in Hybrid Electric Vehicle (PHEV),Clean Alternative Fuel Vehicle Eligible,Eligible,BONNEVILLE POWER ADMINISTRATION||PACIFICORP||BENTON RURAL ELECTRIC ASSN
+E000171,Plug-in Hybrid Electric Vehicle (PHEV),Clean Alternative Fuel Vehicle Eligible,Eligible,"BONNEVILLE POWER ADMINISTRATION||PACIFICORP||COLUMBIA RURAL ELEC ASSN, INC"
+E000172,Plug-in Hybrid Electric Vehicle (PHEV),Clean Alternative Fuel Vehicle Eligible,Eligible,BONNEVILLE POWER ADMINISTRATION||PACIFICORP||PUD NO 1 OF CLARK COUNTY - (WA)
+E000173,Plug-in Hybrid Electric Vehicle (PHEV),Clean Alternative Fuel Vehicle Eligible,Eligible,BONNEVILLE POWER ADMINISTRATION||PUD 1 OF SNOHOMISH COUNTY
+E000174,Plug-in Hybrid Electric Vehicle (PHEV),Clean Alternative Fuel Vehicle Eligible,Eligible,BONNEVILLE POWER ADMINISTRATION||PUD NO 1 OF ASOTIN COUNTY||INLAND POWER & LIGHT COMPANY
+E000175,Plug-in Hybrid Electric Vehicle (PHEV),Clean Alternative Fuel Vehicle Eligible,Eligible,BONNEVILLE POWER ADMINISTRATION||PUD NO 1 OF BENTON COUNTY
+E000176,Plug-in Hybrid Electric Vehicle (PHEV),Clean Alternative Fuel Vehicle Eligible,Eligible,BONNEVILLE POWER ADMINISTRATION||PUD NO 1 OF CLALLAM COUNTY
+E000177,Plug-in Hybrid Electric Vehicle (PHEV),Clean Alternative Fuel Vehicle Eligible,Eligible,BONNEVILLE POWER ADMINISTRATION||PUD NO 1 OF CLARK COUNTY - (WA)
+E000178,Plug-in Hybrid Electric Vehicle (PHEV),Clean Alternative Fuel Vehicle Eligible,Eligible,BONNEVILLE POWER ADMINISTRATION||PUD NO 1 OF COWLITZ COUNTY
+E000179,Plug-in Hybrid Electric Vehicle (PHEV),Clean Alternative Fuel Vehicle Eligible,Eligible,BONNEVILLE POWER ADMINISTRATION||PUD NO 1 OF FERRY COUNTY
+E000180,Plug-in Hybrid Electric Vehicle (PHEV),Clean Alternative Fuel Vehicle Eligible,Eligible,BONNEVILLE POWER ADMINISTRATION||PUD NO 1 OF FRANKLIN COUNTY
+E000181,Plug-in Hybrid Electric Vehicle (PHEV),Clean Alternative Fuel Vehicle Eligible,Eligible,BONNEVILLE POWER ADMINISTRATION||PUD NO 1 OF GRAYS HARBOR COUNTY
+E000182,Plug-in Hybrid Electric Vehicle (PHEV),Clean Alternative Fuel Vehicle Eligible,Eligible,BONNEVILLE POWER ADMINISTRATION||PUD NO 1 OF KITTITAS COUNTY
+E000183,Plug-in Hybrid Electric Vehicle (PHEV),Clean Alternative Fuel Vehicle Eligible,Eligible,BONNEVILLE POWER ADMINISTRATION||PUD NO 1 OF KLICKITAT COUNTY
+E000184,Plug-in Hybrid Electric Vehicle (PHEV),Clean Alternative Fuel Vehicle Eligible,Eligible,BONNEVILLE POWER ADMINISTRATION||PUD NO 1 OF MASON COUNTY|PUD NO 1 OF JEFFERSON COUNTY
+E000185,Plug-in Hybrid Electric Vehicle (PHEV),Clean Alternative Fuel Vehicle Eligible,Eligible,BONNEVILLE POWER ADMINISTRATION||PUD NO 1 OF SKAMANIA CO
+E000186,Plug-in Hybrid Electric Vehicle (PHEV),Clean Alternative Fuel Vehicle Eligible,Eligible,BONNEVILLE POWER ADMINISTRATION||PUD NO 1 OF WAHKIAKUM COUNTY
+E000187,Plug-in Hybrid Electric Vehicle (PHEV),Clean Alternative Fuel Vehicle Eligible,Eligible,BONNEVILLE POWER ADMINISTRATION||PUD NO 2 OF PACIFIC COUNTY
+E000188,Plug-in Hybrid Electric Vehicle (PHEV),Clean Alternative Fuel Vehicle Eligible,Eligible,BONNEVILLE POWER ADMINISTRATION||PUGET SOUND ENERGY INC||PUD NO 1 OF JEFFERSON COUNTY
+E000189,Plug-in Hybrid Electric Vehicle (PHEV),Clean Alternative Fuel Vehicle Eligible,Eligible,BONNEVILLE POWER ADMINISTRATION||TOWN OF EATONVILLE - (WA)|CITY OF TACOMA - (WA)
+E000190,Plug-in Hybrid Electric Vehicle (PHEV),Clean Alternative Fuel Vehicle Eligible,Eligible,BONNEVILLE POWER ADMINISTRATION||TOWN OF RUSTON - (WA)|CITY OF TACOMA - (WA)||PENINSULA LIGHT COMPANY
+E000191,Plug-in Hybrid Electric Vehicle (PHEV),Clean Alternative Fuel Vehicle Eligible,Eligible,BONNEVILLE POWER ADMINISTRATION||TOWN OF STEILACOOM|CITY OF TACOMA - (WA)||PENINSULA LIGHT COMPANY
+E000192,Plug-in Hybrid Electric Vehicle (PHEV),Clean Alternative Fuel Vehicle Eligible,Eligible,BONNEVILLE POWER ADMINISTRATION||VERA IRRIGATION DISTRICT #15
+E000193,Plug-in Hybrid Electric Vehicle (PHEV),Clean Alternative Fuel Vehicle Eligible,Eligible,CITY OF BLAINE - (WA)||PUD NO 1 OF WHATCOM COUNTY
+E000194,Plug-in Hybrid Electric Vehicle (PHEV),Clean Alternative Fuel Vehicle Eligible,Eligible,CITY OF CHENEY - (WA)
+E000195,Plug-in Hybrid Electric Vehicle (PHEV),Clean Alternative Fuel Vehicle Eligible,Eligible,CITY OF CHEWELAH
+E000196,Plug-in Hybrid Electric Vehicle (PHEV),Clean Alternative Fuel Vehicle Eligible,Eligible,CITY OF SEATTLE - (WA)|CITY OF TACOMA - (WA)
+E000197,Plug-in Hybrid Electric Vehicle (PHEV),Clean Alternative Fuel Vehicle Eligible,Eligible,CITY OF SUMAS - (WA)||PUD NO 1 OF WHATCOM COUNTY
+E000198,Plug-in Hybrid Electric Vehicle (PHEV),Clean Alternative Fuel Vehicle Eligible,Eligible,CITY OF TACOMA - (WA)
+E000199,Plug-in Hybrid Electric Vehicle (PHEV),Clean Alternative Fuel Vehicle Eligible,Eligible,CITY OF TACOMA - (WA)||TANNER ELECTRIC COOP
+E000200,Plug-in Hybrid Electric Vehicle (PHEV),Clean Alternative Fuel Vehicle Eligible,Eligible,MODERN ELECTRIC WATER COMPANY
+E000201,Plug-in Hybrid Electric Vehicle (PHEV),Clean Alternative Fuel Vehicle Eligible,Eligible,NO KNOWN ELECTRIC UTILITY SERVICE
+E000202,Plug-in Hybrid Electric Vehicle (PHEV),Clean Alternative Fuel Vehicle Eligible,Eligible,NON WASHINGTON STATE ELECTRIC UTILITY
+E000203,Plug-in Hybrid Electric Vehicle (PHEV),Clean Alternative Fuel Vehicle Eligible,Eligible,"OKANOGAN COUNTY ELEC COOP, INC"
+E000204,Plug-in Hybrid Electric Vehicle (PHEV),Clean Alternative Fuel Vehicle Eligible,Eligible,PACIFICORP
+E000205,Plug-in Hybrid Electric Vehicle (PHEV),Clean Alternative Fuel Vehicle Eligible,Eligible,PUD NO 1 OF CHELAN COUNTY
+E000206,Plug-in Hybrid Electric Vehicle (PHEV),Clean Alternative Fuel Vehicle Eligible,Eligible,PUD NO 1 OF DOUGLAS COUNTY
+E000207,Plug-in Hybrid Electric Vehicle (PHEV),Clean Alternative Fuel Vehicle Eligible,Eligible,PUD NO 1 OF OKANOGAN COUNTY
+E000208,Plug-in Hybrid Electric Vehicle (PHEV),Clean Alternative Fuel Vehicle Eligible,Eligible,PUD NO 1 OF PEND OREILLE COUNTY
+E000209,Plug-in Hybrid Electric Vehicle (PHEV),Clean Alternative Fuel Vehicle Eligible,Eligible,PUD NO 1 OF WHATCOM COUNTY
+E000210,Plug-in Hybrid Electric Vehicle (PHEV),Clean Alternative Fuel Vehicle Eligible,Eligible,PUD NO 2 OF GRANT COUNTY
+E000211,Plug-in Hybrid Electric Vehicle (PHEV),Clean Alternative Fuel Vehicle Eligible,Eligible,PUGET SOUND ENERGY INC
+E000212,Plug-in Hybrid Electric Vehicle (PHEV),Clean Alternative Fuel Vehicle Eligible,Eligible,PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)
+E000213,Plug-in Hybrid Electric Vehicle (PHEV),Clean Alternative Fuel Vehicle Eligible,Eligible,PUGET SOUND ENERGY INC||PUD NO 1 OF WHATCOM COUNTY
+E000214,Plug-in Hybrid Electric Vehicle (PHEV),Not eligible due to low battery range,Not Eligible,AVISTA CORP
+E000215,Plug-in Hybrid Electric Vehicle (PHEV),Not eligible due to low battery range,Not Eligible,"BONNEVILLE POWER ADMINISTRATION||AVISTA CORP||BIG BEND ELECTRIC COOP, INC"
+E000216,Plug-in Hybrid Electric Vehicle (PHEV),Not eligible due to low battery range,Not Eligible,BONNEVILLE POWER ADMINISTRATION||AVISTA CORP||INLAND POWER & LIGHT COMPANY
+E000217,Plug-in Hybrid Electric Vehicle (PHEV),Not eligible due to low battery range,Not Eligible,BONNEVILLE POWER ADMINISTRATION||AVISTA CORP||PUD NO 1 OF ASOTIN COUNTY
+E000218,Plug-in Hybrid Electric Vehicle (PHEV),Not eligible due to low battery range,Not Eligible,BONNEVILLE POWER ADMINISTRATION||BENTON RURAL ELECTRIC ASSN
+E000219,Plug-in Hybrid Electric Vehicle (PHEV),Not eligible due to low battery range,Not Eligible,"BONNEVILLE POWER ADMINISTRATION||BIG BEND ELECTRIC COOP, INC"
+E000220,Plug-in Hybrid Electric Vehicle (PHEV),Not eligible due to low battery range,Not Eligible,BONNEVILLE POWER ADMINISTRATION||CITY OF CENTRALIA - (WA)|CITY OF TACOMA - (WA)
+E000221,Plug-in Hybrid Electric Vehicle (PHEV),Not eligible due to low battery range,Not Eligible,BONNEVILLE POWER ADMINISTRATION||CITY OF COULEE DAM - (WA)
+E000222,Plug-in Hybrid Electric Vehicle (PHEV),Not eligible due to low battery range,Not Eligible,BONNEVILLE POWER ADMINISTRATION||CITY OF ELLENSBURG - (WA)
+E000223,Plug-in Hybrid Electric Vehicle (PHEV),Not eligible due to low battery range,Not Eligible,BONNEVILLE POWER ADMINISTRATION||CITY OF MCCLEARY - (WA)
+E000224,Plug-in Hybrid Electric Vehicle (PHEV),Not eligible due to low battery range,Not Eligible,BONNEVILLE POWER ADMINISTRATION||CITY OF MILTON - (WA)|CITY OF TACOMA - (WA)
+E000225,Plug-in Hybrid Electric Vehicle (PHEV),Not eligible due to low battery range,Not Eligible,BONNEVILLE POWER ADMINISTRATION||CITY OF PORT ANGELES - (WA)
+E000226,Plug-in Hybrid Electric Vehicle (PHEV),Not eligible due to low battery range,Not Eligible,BONNEVILLE POWER ADMINISTRATION||CITY OF RICHLAND - (WA)
+E000227,Plug-in Hybrid Electric Vehicle (PHEV),Not eligible due to low battery range,Not Eligible,BONNEVILLE POWER ADMINISTRATION||CITY OF TACOMA - (WA)||BENTON RURAL ELECTRIC ASSN|PENINSULA LIGHT COMPANY
+E000228,Plug-in Hybrid Electric Vehicle (PHEV),Not eligible due to low battery range,Not Eligible,BONNEVILLE POWER ADMINISTRATION||CITY OF TACOMA - (WA)||ELMHURST MUTUAL POWER & LIGHT CO|PENINSULA LIGHT COMPANY
+E000229,Plug-in Hybrid Electric Vehicle (PHEV),Not eligible due to low battery range,Not Eligible,BONNEVILLE POWER ADMINISTRATION||CITY OF TACOMA - (WA)||LAKEVIEW LIGHT & POWER|PENINSULA LIGHT COMPANY
+E000230,Plug-in Hybrid Electric Vehicle (PHEV),Not eligible due to low battery range,Not Eligible,"BONNEVILLE POWER ADMINISTRATION||CITY OF TACOMA - (WA)||OHOP MUTUAL LIGHT COMPANY, INC|PENINSULA LIGHT COMPANY"
+E000231,Plug-in Hybrid Electric Vehicle (PHEV),Not eligible due to low battery range,Not Eligible,BONNEVILLE POWER ADMINISTRATION||CITY OF TACOMA - (WA)||PARKLAND LIGHT & WATER COMPANY|PENINSULA LIGHT COMPANY
+E000232,Plug-in Hybrid Electric Vehicle (PHEV),Not eligible due to low battery range,Not Eligible,BONNEVILLE POWER ADMINISTRATION||CITY OF TACOMA - (WA)||PENINSULA LIGHT COMPANY
+E000233,Plug-in Hybrid Electric Vehicle (PHEV),Not eligible due to low battery range,Not Eligible,BONNEVILLE POWER ADMINISTRATION||CITY OF TACOMA - (WA)||PUD NO 1 OF LEWIS COUNTY
+E000234,Plug-in Hybrid Electric Vehicle (PHEV),Not eligible due to low battery range,Not Eligible,BONNEVILLE POWER ADMINISTRATION||CITY OF TACOMA - (WA)||PUD NO 1 OF MASON COUNTY
+E000235,Plug-in Hybrid Electric Vehicle (PHEV),Not eligible due to low battery range,Not Eligible,BONNEVILLE POWER ADMINISTRATION||CITY OF TACOMA - (WA)||PUD NO 3 OF MASON COUNTY
+E000236,Plug-in Hybrid Electric Vehicle (PHEV),Not eligible due to low battery range,Not Eligible,"BONNEVILLE POWER ADMINISTRATION||COLUMBIA RURAL ELEC ASSN, INC"
+E000237,Plug-in Hybrid Electric Vehicle (PHEV),Not eligible due to low battery range,Not Eligible,BONNEVILLE POWER ADMINISTRATION||INLAND POWER & LIGHT COMPANY
+E000238,Plug-in Hybrid Electric Vehicle (PHEV),Not eligible due to low battery range,Not Eligible,"BONNEVILLE POWER ADMINISTRATION||NESPELEM VALLEY ELEC COOP, INC"
+E000239,Plug-in Hybrid Electric Vehicle (PHEV),Not eligible due to low battery range,Not Eligible,BONNEVILLE POWER ADMINISTRATION||ORCAS POWER & LIGHT COOP
+E000240,Plug-in Hybrid Electric Vehicle (PHEV),Not eligible due to low battery range,Not Eligible,BONNEVILLE POWER ADMINISTRATION||PACIFICORP||BENTON RURAL ELECTRIC ASSN
+E000241,Plug-in Hybrid Electric Vehicle (PHEV),Not eligible due to low battery range,Not Eligible,BONNEVILLE POWER ADMINISTRATION||PACIFICORP||PUD NO 1 OF CLARK COUNTY - (WA)
+E000242,Plug-in Hybrid Electric Vehicle (PHEV),Not eligible due to low battery range,Not Eligible,BONNEVILLE POWER ADMINISTRATION||PENINSULA LIGHT COMPANY
+E000243,Plug-in Hybrid Electric Vehicle (PHEV),Not eligible due to low battery range,Not Eligible,BONNEVILLE POWER ADMINISTRATION||PUD 1 OF SNOHOMISH COUNTY
+E000244,Plug-in Hybrid Electric Vehicle (PHEV),Not eligible due to low battery range,Not Eligible,BONNEVILLE POWER ADMINISTRATION||PUD NO 1 OF BENTON COUNTY
+E000245,Plug-in Hybrid Electric Vehicle (PHEV),Not eligible due to low battery range,Not Eligible,BONNEVILLE POWER ADMINISTRATION||PUD NO 1 OF CLALLAM COUNTY
+E000246,Plug-in Hybrid Electric Vehicle (PHEV),Not eligible due to low battery range,Not Eligible,BONNEVILLE POWER ADMINISTRATION||PUD NO 1 OF CLARK COUNTY - (WA)
+E000247,Plug-in Hybrid Electric Vehicle (PHEV),Not eligible due to low battery range,Not Eligible,BONNEVILLE POWER ADMINISTRATION||PUD NO 1 OF COWLITZ COUNTY
+E000248,Plug-in Hybrid Electric Vehicle (PHEV),Not eligible due to low battery range,Not Eligible,BONNEVILLE POWER ADMINISTRATION||PUD NO 1 OF FERRY COUNTY
+E000249,Plug-in Hybrid Electric Vehicle (PHEV),Not eligible due to low battery range,Not Eligible,BONNEVILLE POWER ADMINISTRATION||PUD NO 1 OF FRANKLIN COUNTY
+E000250,Plug-in Hybrid Electric Vehicle (PHEV),Not eligible due to low battery range,Not Eligible,BONNEVILLE POWER ADMINISTRATION||PUD NO 1 OF GRAYS HARBOR COUNTY
+E000251,Plug-in Hybrid Electric Vehicle (PHEV),Not eligible due to low battery range,Not Eligible,BONNEVILLE POWER ADMINISTRATION||PUD NO 1 OF KITTITAS COUNTY
+E000252,Plug-in Hybrid Electric Vehicle (PHEV),Not eligible due to low battery range,Not Eligible,BONNEVILLE POWER ADMINISTRATION||PUD NO 1 OF KLICKITAT COUNTY
+E000253,Plug-in Hybrid Electric Vehicle (PHEV),Not eligible due to low battery range,Not Eligible,BONNEVILLE POWER ADMINISTRATION||PUD NO 1 OF MASON COUNTY|PUD NO 1 OF JEFFERSON COUNTY
+E000254,Plug-in Hybrid Electric Vehicle (PHEV),Not eligible due to low battery range,Not Eligible,BONNEVILLE POWER ADMINISTRATION||PUD NO 1 OF SKAMANIA CO
+E000255,Plug-in Hybrid Electric Vehicle (PHEV),Not eligible due to low battery range,Not Eligible,BONNEVILLE POWER ADMINISTRATION||PUD NO 1 OF WAHKIAKUM COUNTY
+E000256,Plug-in Hybrid Electric Vehicle (PHEV),Not eligible due to low battery range,Not Eligible,BONNEVILLE POWER ADMINISTRATION||PUD NO 2 OF PACIFIC COUNTY
+E000257,Plug-in Hybrid Electric Vehicle (PHEV),Not eligible due to low battery range,Not Eligible,BONNEVILLE POWER ADMINISTRATION||PUGET SOUND ENERGY INC||PUD NO 1 OF JEFFERSON COUNTY
+E000258,Plug-in Hybrid Electric Vehicle (PHEV),Not eligible due to low battery range,Not Eligible,BONNEVILLE POWER ADMINISTRATION||TOWN OF EATONVILLE - (WA)|CITY OF TACOMA - (WA)
+E000259,Plug-in Hybrid Electric Vehicle (PHEV),Not eligible due to low battery range,Not Eligible,BONNEVILLE POWER ADMINISTRATION||TOWN OF RUSTON - (WA)|CITY OF TACOMA - (WA)||PENINSULA LIGHT COMPANY
+E000260,Plug-in Hybrid Electric Vehicle (PHEV),Not eligible due to low battery range,Not Eligible,BONNEVILLE POWER ADMINISTRATION||TOWN OF STEILACOOM|CITY OF TACOMA - (WA)||PENINSULA LIGHT COMPANY
+E000261,Plug-in Hybrid Electric Vehicle (PHEV),Not eligible due to low battery range,Not Eligible,BONNEVILLE POWER ADMINISTRATION||VERA IRRIGATION DISTRICT #15
+E000262,Plug-in Hybrid Electric Vehicle (PHEV),Not eligible due to low battery range,Not Eligible,CITY OF BLAINE - (WA)||PUD NO 1 OF WHATCOM COUNTY
+E000263,Plug-in Hybrid Electric Vehicle (PHEV),Not eligible due to low battery range,Not Eligible,CITY OF CHENEY - (WA)
+E000264,Plug-in Hybrid Electric Vehicle (PHEV),Not eligible due to low battery range,Not Eligible,CITY OF CHEWELAH
+E000265,Plug-in Hybrid Electric Vehicle (PHEV),Not eligible due to low battery range,Not Eligible,CITY OF SEATTLE - (WA)|CITY OF TACOMA - (WA)
+E000266,Plug-in Hybrid Electric Vehicle (PHEV),Not eligible due to low battery range,Not Eligible,CITY OF SUMAS - (WA)||PUD NO 1 OF WHATCOM COUNTY
+E000267,Plug-in Hybrid Electric Vehicle (PHEV),Not eligible due to low battery range,Not Eligible,CITY OF TACOMA - (WA)
+E000268,Plug-in Hybrid Electric Vehicle (PHEV),Not eligible due to low battery range,Not Eligible,CITY OF TACOMA - (WA)||TANNER ELECTRIC COOP
+E000269,Plug-in Hybrid Electric Vehicle (PHEV),Not eligible due to low battery range,Not Eligible,MODERN ELECTRIC WATER COMPANY
+E000270,Plug-in Hybrid Electric Vehicle (PHEV),Not eligible due to low battery range,Not Eligible,NO KNOWN ELECTRIC UTILITY SERVICE
+E000271,Plug-in Hybrid Electric Vehicle (PHEV),Not eligible due to low battery range,Not Eligible,NON WASHINGTON STATE ELECTRIC UTILITY
+E000272,Plug-in Hybrid Electric Vehicle (PHEV),Not eligible due to low battery range,Not Eligible,"OKANOGAN COUNTY ELEC COOP, INC"
+E000273,Plug-in Hybrid Electric Vehicle (PHEV),Not eligible due to low battery range,Not Eligible,PACIFICORP
+E000274,Plug-in Hybrid Electric Vehicle (PHEV),Not eligible due to low battery range,Not Eligible,PORTLAND GENERAL ELECTRIC CO
+E000275,Plug-in Hybrid Electric Vehicle (PHEV),Not eligible due to low battery range,Not Eligible,PUD NO 1 OF CHELAN COUNTY
+E000276,Plug-in Hybrid Electric Vehicle (PHEV),Not eligible due to low battery range,Not Eligible,PUD NO 1 OF DOUGLAS COUNTY
+E000277,Plug-in Hybrid Electric Vehicle (PHEV),Not eligible due to low battery range,Not Eligible,PUD NO 1 OF OKANOGAN COUNTY
+E000278,Plug-in Hybrid Electric Vehicle (PHEV),Not eligible due to low battery range,Not Eligible,PUD NO 1 OF PEND OREILLE COUNTY
+E000279,Plug-in Hybrid Electric Vehicle (PHEV),Not eligible due to low battery range,Not Eligible,PUD NO 1 OF WHATCOM COUNTY
+E000280,Plug-in Hybrid Electric Vehicle (PHEV),Not eligible due to low battery range,Not Eligible,PUD NO 2 OF GRANT COUNTY
+E000281,Plug-in Hybrid Electric Vehicle (PHEV),Not eligible due to low battery range,Not Eligible,PUGET SOUND ENERGY INC
+E000282,Plug-in Hybrid Electric Vehicle (PHEV),Not eligible due to low battery range,Not Eligible,PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA)
+E000283,Plug-in Hybrid Electric Vehicle (PHEV),Not eligible due to low battery range,Not Eligible,PUGET SOUND ENERGY INC||PUD NO 1 OF WHATCOM COUNTY
