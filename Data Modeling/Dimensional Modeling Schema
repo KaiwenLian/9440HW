@@ -19,7 +19,7 @@ CREATE TABLE ev_population_data.Location_Dim (
     County STRING,
     City STRING,
     State STRING,
-    Postal_Code STRING,
+    Postal_Code INTEGER,
     Latitude NUMERIC(9,6),
     Longitude NUMERIC(9,6)
 );
