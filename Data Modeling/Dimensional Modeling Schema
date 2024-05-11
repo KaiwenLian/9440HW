@@ -26,13 +26,12 @@ CREATE TABLE ev_population_data.Location_Dim (
     Longitude NUMERIC(9,6)
 );
 
-
 CREATE TABLE ev_population_data.Vehicle_Dim (
     Vehicle_ID STRING NOT NULL,
     VIN STRING,
     Make STRING,
     Model STRING,
-    DOL_Vehicle_ID STRING
+    DOL_Vehicle_ID Integer
 );
 
 
