@@ -15,7 +15,7 @@ CREATE TABLE ev_population_data.Electric_Vehicle_Type_Dim (
 
 
 CREATE TABLE ev_population_data.Location_Dim (
-    Location_ID INT64 NOT NULL,
+    Location_ID STRING NOT NULL,
     County STRING,
     City STRING,
     State STRING,
