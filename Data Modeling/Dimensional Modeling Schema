@@ -1,13 +1,13 @@
 CREATE SCHEMA IF NOT EXISTS ev_population_data;
 
 CREATE TABLE ev_population_data.Date_Dim (
-    Date_ID INT64 NOT NULL,
+    Date_ID STRING NOT NULL,
     Model_Year INT64
 );
 
 
 CREATE TABLE ev_population_data.Electric_Vehicle_Type_Dim (
-    EV_Type_ID INT64 NOT NULL,
+    EV_Type_ID STRING NOT NULL,
     Electric_Vehicle_Type STRING,
     Electric_Utility STRING,
     CAFV_Eligibility STRING
@@ -28,7 +28,7 @@ CREATE TABLE ev_population_data.Location_Dim (
 
 
 CREATE TABLE ev_population_data.Vehicle_Dim (
-    Vehicle_ID INT64 NOT NULL,
+    Vehicle_ID STRING NOT NULL,
     VIN STRING,
     Make STRING,
     Model STRING,
@@ -37,7 +37,7 @@ CREATE TABLE ev_population_data.Vehicle_Dim (
 
 
 CREATE TABLE ev_population_data.Facts_EV (
-    Fact_ID INT64 NOT NULL,
+    Fact_ID STRING NOT NULL,
     Electric_Range NUMERIC,
     Base_MSRP NUMERIC,
     Date_ID INT64 NOT NULL,
