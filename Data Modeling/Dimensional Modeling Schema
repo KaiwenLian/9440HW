@@ -10,7 +10,8 @@ CREATE TABLE ev_population_data.Electric_Vehicle_Type_Dim (
     EV_Type_ID STRING NOT NULL,
     Electric_Vehicle_Type STRING,
     Electric_Utility STRING,
-    CAFV_Eligibility STRING
+    CAFV_Eligibility STRING,
+    CAFV_Eligibility_Type STRING
 );
 
 
