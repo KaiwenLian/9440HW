@@ -20,8 +20,6 @@ CREATE TABLE ev_population_data.Location_Dim (
     City STRING,
     State STRING,
     Postal_Code STRING,
-    Legislative_District STRING,
-    Census_Tract_2020 STRING,
     Latitude NUMERIC(9,6),
     Longitude NUMERIC(9,6)
 );
