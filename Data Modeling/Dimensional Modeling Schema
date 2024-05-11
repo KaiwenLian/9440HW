@@ -40,10 +40,10 @@ CREATE TABLE ev_population_data.Facts_EV (
     Fact_ID STRING NOT NULL,
     Electric_Range NUMERIC,
     Base_MSRP NUMERIC,
-    Date_ID INT64 NOT NULL,
-    Location_ID INT64 NOT NULL,
-    Vehicle_ID INT64 NOT NULL,
-    EV_Type_ID INT64 NOT NULL
+    Date_ID STRING NOT NULL,
+    Location_ID STRING NOT NULL,
+    Vehicle_ID STRING NOT NULL,
+    EV_Type_ID STRING NOT NULL
 );
 
 ALTER TABLE ev_population_data.Date_Dim ADD PRIMARY KEY (Date_ID) NOT ENFORCED;
