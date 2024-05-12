@@ -13,7 +13,8 @@
 - Creating dimensional modeling, breaking down these sources into a data warehouse via Google Cloud Platform (GCP).
 - Schema generated for Big Query can be found in my Data Modeling folder.
 - For a data warehouse star schema based on this dataset, we can structure it as follows:
- <img width="1163" alt="image" src="https://github.com/KaiwenLian/9440HW/assets/77905682/7194bd0c-d2ae-488f-86fe-26520b5f5020">
+ ![image](https://github.com/KaiwenLian/9440HW/assets/77905682/13bad3c5-6c21-4227-9eba-c7c85046b14b)
+
 
 ## Transformation
 - Transforming was done by Alteryx. The workflow can be found in my Data Modeling folder.
