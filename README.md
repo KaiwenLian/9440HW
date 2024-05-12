@@ -27,7 +27,10 @@
 - Analysis indicates that electric mileage isn't the only factor affecting electric vehicle (EV) ownership. The type of EV—plug-in versus battery-powered—also plays a critical role.
  - For plug-in EVs, buyers prefer models with the longest electric range to maximize energy savings.
  - In contrast, battery-powered EVs show a distinct trend: sales peak for ranges of 150-200 miles and drop off beyond 200 miles, suggesting that consumers consider this range optimal and do not value additional mileage.
-![image](https://github.com/KaiwenLian/9440HW/assets/77905682/197ca7a9-214c-4d8b-9646-0e4c985bdf66)
+![image](https://github.com/KaiwenLian/9440HW/assets/77905682/757d3fd4-7a64-4cfb-9c79-24020fabb243)
+![image](https://github.com/KaiwenLian/9440HW/assets/77905682/08a36f38-fa53-49ec-a7fb-e6de89d058d0)
+
+
 
 
 
