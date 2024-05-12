@@ -21,7 +21,7 @@
  ![image](https://github.com/KaiwenLian/9440HW/assets/77905682/66c36f9b-f9fd-4c78-90e2-83c4664c3ea6)
 
 ## Load
-- Load was done...
+- The load was done by Pandas and Big Query. After transforming, cleaning, and consolidating the data using Alteryx, I loaded all results from csv files to panda data frames with slight adjustment. All data frames were uploaded to the data warehouse in the Google Cloud Platform. You can find the Transform & Load scripts in my ETL Scripts folder.
 
 ## Data Visualization
 - Data visualization was one in Power BI.
